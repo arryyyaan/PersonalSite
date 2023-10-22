@@ -1,0 +1,61 @@
+.mountains{
+    width: 100%;
+}
+
+.maintext{
+    position: absolute;
+    top: 10%;
+    left : 15% ;
+    font-family: 'Merriweather', serif;
+    color: #04364A;
+    
+}
+
+.subtext{
+    position: absolute;
+    top: 25%;
+    left: 15%;
+    font-family: 'Merriweather', serif;
+    color: #176B87;
+}
+
+h1{
+    font-size: 5rem ; 
+}
+
+h2{
+    font-size: 3rem;
+}
+span{
+    text-decoration: underline;
+}
+
+.personal{
+    height: 300px;
+    border-radius: 50%;
+}
+
+.text-body-emphasis{
+    color: #64CCC5!important;
+    font-family: 'Merriweather', serif;
+    font-size: 4rem!important;
+}
+
+.lead{
+    color: #176B87!important;
+    font-family: 'Merriweather', serif;
+}
+
+.cen{
+    text-align: center;
+    color: #64CCC5!important;
+}
+
+#abc{
+    font-size: 4rem;
+}
+
+.btn > a{
+    text-decoration: none!important;
+    color: #176B87!important;
+}
